@@ -1,4 +1,4 @@
 huashajiafa,tianxiadi!
-jiafazhijia,shuiyuzhengfeng
+jiafazhijia,shuiyuzhengfeng  lhc edit sth in the same line.
 This is my content,Just test push by lhc.
 duguniujian    test pull.
